@@ -1,0 +1,2 @@
+# Android_NetworkTest
+安卓网络测试demo，包含Xml文件的XmlPullParser解析方式和SAX解析方式，Json文件的JSONObject解析和Gson解析，发送http请求的OkHttp方式和HttpURLConnection方式
